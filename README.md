@@ -36,7 +36,7 @@ Feel free to contribute, report issues, or suggest improvements. Auth Master is 
 
 Netlify:  https://auth-firebase-context-tailwind-nion.netlify.app/
 
-Surge: https://zippy-grip.surge.sh/
+Surge: https://encouraging-beginner.surge.sh/
 
 
 ## Deployment
