@@ -34,7 +34,7 @@ To explore and run the Auth Master application locally, follow the steps outline
 Feel free to contribute, report issues, or suggest improvements. Auth Master is here to make user authentication a seamless and enjoyable experience. Happy coding!
 ## Live Website
 
-Netlify:  
+Netlify:  https://auth-firebase-context-tailwind-nion.netlify.app/
 
 Surge:
 
